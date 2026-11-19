@@ -1,0 +1,20 @@
+[
+  {
+    "start": "¡Vamos, que ruede el balón!",
+    "score": "¡Así se hace!",
+    "miss": "Uy, casi.",
+    "steal": "¡Ese balón es mío!",
+    "cross": "¡Por aquí!",
+    "dunk": "¡Hasta el aro!",
+    "win": "¡El anillo se queda conmigo!"
+  },
+  {
+    "start": "¡Que empiece el duelo!",
+    "score": "¡Cuenta esa!",
+    "miss": "La próxima entra.",
+    "steal": "¡La tengo!",
+    "cross": "¡Cambio de ritmo!",
+    "dunk": "¡Eso es una clavada!",
+    "win": "¡Este anillo es para mí!"
+  }
+]

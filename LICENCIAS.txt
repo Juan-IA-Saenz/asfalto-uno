@@ -1,0 +1,4 @@
+Asfalto Uno usa Godot Engine, bajo la licencia MIT.
+Licencia y avisos de Godot: art/Godot-LICENSE.txt y art/Godot-COPYRIGHT.txt.
+La tipografía Barlow Condensed está bajo la SIL Open Font License; véase art/Barlow-OFL.txt.
+Voces sintéticas en español: modelos y procedencia en art/audio/CREDITOS.txt.

@@ -1,0 +1,8 @@
+Las frases en español fueron sintetizadas con Piper 1.5.0. Se incluyen las grabaciones en WAV, no el motor Piper ni los modelos. La música y los efectos son composiciones originales de Asfalto Uno.
+
+Modelos de voz (rhasspy/piper-voices, revisión 04ca88f5685ca5253c701af3687e155b113bd512):
+• es_MX-claude-high, ficha y procedencia (Apache 2.0): https://huggingface.co/rhasspy/piper-voices/blob/04ca88f5685ca5253c701af3687e155b113bd512/es/es_MX/claude/high/MODEL_CARD
+• es_MX-ald-medium, ficha y procedencia (Unlicense): https://huggingface.co/rhasspy/piper-voices/blob/04ca88f5685ca5253c701af3687e155b113bd512/es/es_MX/ald/medium/MODEL_CARD
+• en_US-joe-medium, ficha y procedencia (datos CC0): https://huggingface.co/rhasspy/piper-voices/blob/04ca88f5685ca5253c701af3687e155b113bd512/en/en_US/joe/medium/MODEL_CARD
+
+Las tres pistas del circuito y la reacción de la tribuna se generan mediante crear_ambiente.py. Los ritmos y versos son originales; no usan grabaciones musicales de terceros.
